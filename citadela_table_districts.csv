@@ -1,0 +1,55 @@
+color,name_orig,name_en,quantity,cost,special,note_orig,note_en,vanila_game
+Red,Strážní Věž,Guard Tower,3,1,FALSE,None,None,TRUE
+Red,Žaláž,Prison,3,2,FALSE,None,None,TRUE
+Red,Cvičiště,Training Grounds,3,3,FALSE,None,None,TRUE
+Red,Pevnost,Fort,2,5,FALSE,None,None,TRUE
+Blue,Chrám,Temple,3,1,FALSE,None,None,TRUE
+Blue,Kostel,Church,3,2,FALSE,None,None,TRUE
+Blue,Opatsví,Abbey,3,3,FALSE,None,None,TRUE
+Blue,Katedrála,Cathedral,2,5,FALSE,None,None,TRUE
+Yellow,Lovecký Zámek,Mansion,5,3,FALSE,None,None,TRUE
+Yellow,Hrad,Castle,4,4,FALSE,None,None,TRUE
+Yellow,Palác,Palace,3,5,FALSE,None,None,TRUE
+Green,Hospoda,Inn,5,1,FALSE,None,None,TRUE
+Green,Tržiště,Market,4,2,FALSE,None,None,TRUE
+Green,Cechovní Dům,Guild House,3,2,FALSE,None,None,TRUE
+Green,Obchodní Kancelář,Trade Office,3,3,FALSE,None,None,TRUE
+Green,Přístav,Sea Port,3,4,FALSE,None,None,TRUE
+Green,Radnice,Town Hall,2,5,FALSE,None,None,TRUE
+Purple,Město Durchů,Ghost Town,1,2,TRUE,Při sčítání bodů se město duchů považuje za stavbu jakékoli barvy.,"For purposes of victory points, the Haunted City is considered to be of the color of your choice. You cannot use this ability if you built it during the last round of the game.",TRUE
+Purple,Obranná Věž (Citadela),Keep,2,3,TRUE,Na obranou věž nesmí používat své schopnosti postavy červené barvy (8. třída).,The Keep cannot be attacked by the tier 8 character.,TRUE
+Purple,Hřbitov,Graveyard,1,5,TRUE,"Za stavbu, kterou zboří žoldnéř můžete zaplatit 1 zlaťák a vzít ji do ruky. Toto pravidlo neplatí, pokud jste sám žoldnéř.","When the Warlord destroys a district, you may pay one (1)gold to take the destroyed district into your hand. You may not do this if you are the Warlord.",TRUE
+Purple,Hvězdárna,Observatory,1,5,TRUE,"Pokud si na začátku tahu berete kartu, vybíráte si ji ze 3 karet. Obě zbylé odhoďte na vyhazovací balíček.","If you choose to draw cards when you take an action, you draw three (3) cards, keep one (1) of your choice, and put the other two (2)on the bottom of the deck.",TRUE
+Purple,Kovárna,Smithy,1,5,TRUE,Kdykoliv během svého tahu si můžete vzít 2 karty staveb a zaplatíte za ně 3 zlaťáky.,"Once during your turn, you may pay two (2) gold to draw three (3) district cards.",TRUE
+Purple,Laboratoř,Laboratory,1,5,TRUE,Z karet v ruce můžete odhodit 1 stavbu na vyhazovací balíček a vzít si místo ní 1 zlaťák.,Once during your turn you may discard a district card from your hand and receive one (1) gold from the bank.,TRUE
+Purple,Čarodějná Škola,School of Magic,1,6,TRUE,"Čarodějná škola se považuje za stavbu jakékoli barvy. V každém kole dostanete, pokud jste 4., 5., 6. nebo 8. třída jeden zlaťák.","For purposes of income, the School is considered to be of the color of your choice. If you are the King this round, for example, The School is considered to be a noble (yellow) district.",TRUE
+Purple,Knihovna,Library,1,6,TRUE,"Pokud si na začátku svého tahu berete karty, můžete si ponechat obě dvě.","If you choose to draw cards when you take an action, you keep both of the cards you have drawn.",TRUE
+Purple,Dračí Sluje,Dragon Pit,1,6,TRUE,"Tato vzácná stavba stojí 6 zlaťáků, ale na konci hry se počítá za 8 bodů.","This district costs six (6) gold to build, but is worth eight (8) points at the end of the game.",TRUE
+Purple,Univerzita,University,1,6,TRUE,"Tato vzácná stavba stojí 6 zlaťáků, ale na konci hry se počítá za 8 bodů.","This district costs six (6) gold to build, but is worth eight (8) points at the end of the game.",TRUE
+Purple,Mapova Síň,Map Room,1,5,TRUE,Na konci hry získej 1 bod za každou zbývající kartu v ruce.,At the end of the game gain 1 extra point for each card left in your hand.,FALSE
+Purple,Pokladnice,Imperial treasury,1,5,TRUE,Na konci hry získej 1 bod za každý zbývající zlaťák.,At the end of the game gain 1 extra point for each gold left in your stash.,FALSE
+Purple,Kamenolom,Quarry,1,5,TRUE,Můžeš stavět duplikátní budovy.,You can build districts that are identical to districts is your city.,FALSE
+Purple,Studnice přání,Wishing Well,1,5,TRUE,"Na konci hry získej 1 bod za každou unikátní budovu, včetně studnice přání.","At the end of the game gain 1 extra point for each unique district, including Wishing Well.",FALSE
+Purple,Sirotčinec,Poor House,1,4,TRUE,"Pokud na konci kola nemáš žádný zlaťák, vem si z banky 1 zlaťák.","If you have no gold at the end of your turn, gain 1 gold.",FALSE
+Purple,Muzeum,Museum,1,4,TRUE,Jednou za kolo můžeš z ruky položit na muzeum jakoukoliv kartu (lícem dolů). Na konci hry získáš za každou kartu na muzeu 1 bod.,Once per turn assign 1 card from your hand facedown under the museum. Gain 1 extra point for each card under the Museum at the end of the game.,FALSE
+Purple,Špeluňka,Thieves' Den,1,6,TRUE,Zaplať za špeluňku libovolným počtem karet z ruky v poměru: 1 karta = 1 zlaťák.,Pay some or all of the Thieves Den cost with cards from your hand instead of gold at a rate of 1 card = 1 gold.,FALSE
+Purple,Továrna,Factory,1,5,TRUE,Za unikátní budovy platíš o jeden zlaťák méně.,You pay 1 fever gold for any other unique district.,FALSE
+Purple,Lešení,Framework,1,3,TRUE,Namísto platby za budovu můžeš zničit lečení a umístit ji na na jeho původní pozici.,You can build district by destroying the Framework instead of paying that district's cost.,FALSE
+Purple,Velká Zeď,Great Wall,1,6,TRUE,Postavy červené barvy (8. třída) platí 1 extra zlaťák za užívání schopností na kteroukoliv budovu ve tvém městě.,The rank 8 character must pay 1 more gold to use its ability on any other district in your city.,FALSE
+Purple,Park,Park,1,6,TRUE,"Pokud nemáš na konci tahu v ruce žádnou kartu, přiber si 2 z balíčku.","If there is no cards in your hand at the end of your turn, gain 2 cards.",FALSE
+Purple,Socha,Statue,1,3,TRUE,"Pokud na konci hry máš symbol koruny, získej 5 bodů.","If you have the crown at the end of the game, gain 5 extra points.",FALSE
+Purple,Slonovinová Věž,Ivory Tower,1,5,TRUE,"Pokud je slonovinová věž jediná unikátní budova ve tvém městě, získej 5 bodů.","If the Ivory Tower is the only unique district in your city at the end of the game, gain 5 extra points.",FALSE
+Purple,Město Mrtvých,Necropolis,1,5,TRUE,"Můžeš postavit město mrtvých zničením kterékoliv jiné budovy ve tvém městě, namísto platby zlaťáky.",You can build the Necropolis by destroying 1 district in your city instead of paying the Necropolis' cost.,FALSE
+Purple,Monument,Monument,1,4,TRUE,"Nemůžeš stavět monument, pokud máš 5 a nebo více budov. Monument se počítá za 2 budovy.",You cannot build the Monument if you have 5 or more districts in your city. Treat the Monument as being 2 districts towards your completed city.,FALSE
+Purple,Zbrojnice,Armory,1,0,TRUE,V průběhu kola můžeš zničit zbrojnici a kteroukoliv jinačí budovu.,"During your turn, destroy the Armory to destroy 1 district of your choice.",FALSE
+Purple,Tajný sejf,Secret Vault,1,3,TRUE,"Tajný sejf nemůže být postaven, ale na konci hry jeho majitel získá 3 body.",The Secret Vault cannot be build. At the end of the game reveal it from your hand to gain 3 extra points.,FALSE
+Purple,Stáje,Stables,1,2,TRUE,Stáje se nepočítají do limitu budov.,Building the Stables does not come toward your building limit.,FALSE
+Purple,Divadlo,Theatre,1,6,TRUE,Po skončení fáze výběru postav si můžeš vyměnit postavu se zvoleným protihráčem (max. 1).,"At the end of each selection phase, you may exchange your chosen character card with an opponent's card.",FALSE
+Purple,Kapitol,Capitol,1,5,TRUE,"Pokud máš alespoň 3 stejné budovy, získáš na konci hry 3 body.","If you have at least 3 districts of the same type at the end of the game, score 3 extra points.",FALSE
+Purple,Bazilika,Basilica,1,4,TRUE,"Na konci hry získáš 1 bod za každou budovu, která má náklady na stavbu v lichých číslech.","After the end of the game, gain 1 extra point for each district in your city with an odd-numbered cost",FALSE
+Purple,Taneční sál,Ball Room,1,6,TRUE,"Pokud máš kartu koruny, ostatní hráči tě musí oslovovat ""Děkuji, Vaše Veličenstvo"", pokaždé když je hráč vyzve ke hře. Pokud to nesplní, propadá mu tah.","When you have the Crown, all other players must say ""Thanks, your Excellency"" after you have called his character. If a player forgets to address you in this way, he losees the turn.",FALSE
+Purple,Nemocnice,Hospital,1,6,TRUE,"Ikdyž jsi byl zabit, můžeš hrát svůj tah (nesmíš ovšem stavět a nebo používat schopnosti postavy).","Even if you are assasinated, you may take an action during your turn (but may not build a district card or to use your character's power).",FALSE
+Purple,Zvonice,Bell Tower,1,5,TRUE,"Když postavíš zvonici, můžeš ohlásit předčasný konec hry při splnění limitu 7 budov (oproti 8). Pokud je zvonice zničena vše se vrací do normálu.","When you place the Bell Tower in your city, you may announce that the game will end after the round in which a player first places his seventh district. You may do this even if the Bell Tower is your seventh district. If the Bell Tower is later destroyed, the game end conditions return to normal.",FALSE
+Purple,Maják,Lighthouse,1,3,TRUE,"Když postavíš maják, můžeš se podívat do balíčku karet budov, vybrat si jednu a vzít si ji do ruky. Následně balíček zamíchej.","When you place the Lighthouse in your city, you may look through the District Deck, choose one card and add it to your hand. Shuffle the deck afterwerds.",FALSE
+Purple,Trůnní sál,Throne room,1,6,TRUE,"Pokaždé, když se mění vlastník symbolu koruny, získáš 1 zlaťák z banky.","Every time the Crown switches players, you receive one gold from the bank.",FALSE
+Purple,Zlatý důl,Gold Mine,1,6,TRUE,"Pokud si ve svém kole zvolíš výběr zlaťáků, získej 1 navíc.","If you choose to gain gold when gathering resources, gain 1 extra gold.",FALSE
